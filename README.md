@@ -14,7 +14,7 @@ This is a simple weather application developed using HTML, CSS, JavaScript, and 
 ## How to Use
 
 1. Clone this repository to your local machine using the following command:
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/Cyb3rGhoul/Weather-App
 2. Navigate to the project directory:
 cd weather-app
 
